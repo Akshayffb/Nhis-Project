@@ -1,3 +1,4 @@
+<!-- i'm testing -->
 <?php
 $currency_symbol = $this->customlib->getSchoolCurrencyFormat();
 ?>
